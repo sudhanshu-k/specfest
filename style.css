@@ -64,7 +64,7 @@ section {
 .text h1 {
   font-family: "AlphaCentauri" !important;
   font-size: 5vw;
-  color: #fff;
+  color: rgb(71, 7, 26);
   letter-spacing: 20px;
   position: absolute;
   top: 35vh;
@@ -72,8 +72,8 @@ section {
 }
 
 .earth img {
-  width: 400px;
-  height: 400px;
+  width: 662px;
+  height: 373px;
   position: absolute;
   left: 34vw;
   top: 25vh;
